@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說相應相可經
+#+DATE: 2015-08-30 19:31:45.425988
+#+PROPERTY: JUAN 0
